@@ -1,0 +1,13 @@
+* {font-family: Verdana, Geneva, Tahoma, sans-serif; box-sizing: border-box;font-style: italic;
+    background-size: cover;}
+    body{
+        background-image: url('../img/fotoHotel.jpg');
+    }
+main {background-image: url('../img/fondoFormulario.jpg');}
+.label{
+    text-align:center;
+}
+
+.centrar  {text-align: center;}
+h1 {color: #cfd8e6;}
+main {width: 70%; margin: 100px auto; max-width: 1200px; padding: 20px; border: 2px solid rgb(126, 128, 0); border-radius: 10px;box-shadow: 3px 3px 5px rgb(126, 128, 0)}
